@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: JavaTpoint Spring boot example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 029
+Implementation-Vendor-Id: com.jp
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/springbootex
+ ample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
